@@ -8,11 +8,12 @@
 
 - ⚧️ Qualquer Pronome
 
-<br><br>
-
-<h2 align = "center" style="padding-bottom:30px;">Linguagens e Tecnologias</h2>
-<div style= "display: inline-block">
-  <img width="64px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<br>
+  <h3 align = "center">Linguagens e Tecnologias</h3>
+  
+##
+<div style= "display: inline-block" align = "center">
+  <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="72px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
