@@ -1,11 +1,23 @@
-## Olá! Me chamo Gekyume Serna 😊
+# Olá! Me chamo Gekyume Serna 😊
 
 - 📚 Estou cursando o segundo periodo de Análise e Desenvolvimento de Sistemas na Faeterj-Rio
 
-- 💻 Conhecimento em linguagem C e aprendendo Phyton, C++ e Javascript
+- 💻 Conhecimento em tecnologias web e linguagem C e aprendendo Phyton e Javascript
 
 - 🐱‍💻 Gamer e Estudante Curioso
 
 - ⚧️ Qualquer Pronome
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBestGekyume&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
+
+## <p style="text-align: center">Linguagens e Tecnologias</p>
+<div style= "display: inline-block">
+  <img width="64px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="72px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img width="72px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img width="72px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />    </div>
+  
