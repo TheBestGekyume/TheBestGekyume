@@ -10,7 +10,7 @@
 
 <br><br>
 
-## <p style="text-align: center">Linguagens e Tecnologias</p>
+<h2 style="text-align: center">Linguagens e Tecnologias</h2>
 <div style= "display: inline-block">
   <img width="64px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
