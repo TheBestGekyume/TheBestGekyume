@@ -3,7 +3,7 @@
 
 <ul>
   <img align="right" width="25%;" src="image/imagem_2023-10-07_122434067-removebg-preview.png">
-  <li>📚 Cursando o segundo periodo de Análise e Desenvolvimento de Sistemas na Faeterj-Rio</li>
+  <li>📚 Cursando o 2º periodo de Análise e Desenvolvimento de Sistemas na Faeterj-Rio</li>
   <li>💻 Conhecimento em tecnologias web e linguagem C e aprendendo Phyton e Javascript</li>
   <li>🐱‍💻 Gamer e Estudante Curioso</li>
   <li>⚧️ Qualquer Pronome</li>
@@ -24,5 +24,6 @@
   <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img width="72px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img width="72px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />    </div>
+  <img width="72px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+</div>
   
