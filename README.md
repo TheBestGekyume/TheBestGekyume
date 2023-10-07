@@ -7,7 +7,7 @@
   <li>💻 Conhecimento em tecnologias web e linguagem C e aprendendo Phyton e Javascript</li>
   <li>🐱‍💻 Gamer e Estudante Curioso</li>
   <li>⚧️ Qualquer Pronome</li>
-  <li>📨Contate-me: <a href=" mailto:contatogekyume@gmail.com">contatogekyume@gmail.com</a></li>
+  <li>📨Contate-me: <a href="mailto:contatogekyume@gmail.com">contatogekyume@gmail.com</a> </li>
 </ul>
 
 <br>
