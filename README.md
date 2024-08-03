@@ -6,8 +6,8 @@
   <li>📚 Cursando Análise e Desenvolvimento de Sistemas na Faeterj-Rio</li>
   <li>💻 Sou Desenvolvedor Front-end e tenho conhecimento em tecnologias Back-end</li>
   <li>🐱‍💻 Gamer e Estudante Engajado</li>
-  <li>⚧️ Qualquer Pronome</li>
-  <li>📨Contate-me: <a href="mailto:contatogekyume@gmail.com">contatogekyume@gmail.com</a> </li>
+  <li>⚧️  Qualquer Pronome</li>
+  <li>📨 Contate-me: <a href="mailto:contatogekyume@gmail.com">contatogekyume@gmail.com</a> </li>
 </ul>
 
 <br>
