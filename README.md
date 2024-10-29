@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="100" src="https://i.gifer.com/3RZb.gif"  />
+<img align="right" height="200" src="https://i.gifer.com/3RZb.gif"  />
 
 ###
 
@@ -11,6 +11,8 @@
 ###
 
 <br clear="both">
+
+###
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="64" alt="html5 logo"  />
@@ -27,19 +29,30 @@
   <img width="15" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="64" alt="react logo"  />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="64" alt="c logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="64" alt="git logo"  />
-  <img width="15" />
+<div/>
+
+<img height="15" />
+  
+<div align="center">
   <img src="https://cdn.simpleicons.org/angular/DD0031" height="64" alt="angularjs logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="64" alt="vscode logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="64" alt="nodejs logo"  />
   <img width="15" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="64" alt="git logo"  />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="64" alt="figma logo"  />
   <img width="15" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="64" alt="c logo"  />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="64" alt="linux logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thebestgekyume&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=true&order=2&custom_title=Principais%20Linguagens" height="200" alt="languages graph"  />
 </div>
 
 ###
@@ -65,9 +78,5 @@
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thebestgekyume&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=true&order=2&custom_title=Principais%20Linguagens" height="200" alt="languages graph"  />
-</div>
 
 ###
