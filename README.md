@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Me chamo Gekyume Serna 😊</h2>
+# Olá! Me chamo Gekyume Serna 😊
 
 ###
 
@@ -6,13 +6,14 @@
 
 ###
 
-<h6 align="left">📚 Cursando Análise e Desenvolvimento de Sistemas na Faeterj-Rio<br>💻 Sou Desenvolvedor Web com foco em Front-End React e Angular<br>🐱‍💻 Gamer nas horas vagas, estudante engajado, e apaixonado por cybersecurity</h6>
+### 📚 Cursando Análise e Desenvolvimento de Sistemas na Faeterj-Rio
+### 💻 Sou Desenvolvedor Web com foco em Front-End React e Angular
+### 🐱‍💻 Gamer nas horas vagas, estudante engajado, e apaixonado por cybersecurity
 
 ###
 
-<br clear="both">
-
-###
+<br clear="both" >
+<img height="50"/>
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="64" alt="html5 logo"  />
