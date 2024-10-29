@@ -10,9 +10,8 @@
 ### 💻 Sou Desenvolvedor Web com foco em Front-End React e Angular
 ### 🐱‍💻 Gamer nas horas vagas, estudante engajado, e apaixonado por cybersecurity
 
-###
-
 <br clear="both" >
+
 <img height="25"/>
 
 <div align="center">
@@ -50,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="64" alt="linux logo"  />
 </div>
 
-###
+<img height="25"/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thebestgekyume&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=true&order=2&custom_title=Principais%20Linguagens" height="200" alt="languages graph"  />
