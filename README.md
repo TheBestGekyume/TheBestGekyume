@@ -12,7 +12,7 @@
 
 <br clear="both" >
 
-<img height="25"/>
+<img height="15"/>
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="64" alt="html5 logo"  />
