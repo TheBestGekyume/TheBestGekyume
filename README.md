@@ -13,7 +13,7 @@
 ###
 
 <br clear="both" >
-<img height="50"/>
+<img height="25"/>
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="64" alt="html5 logo"  />
