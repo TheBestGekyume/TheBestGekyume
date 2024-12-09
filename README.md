@@ -52,7 +52,7 @@
 <img height="25"/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thebestgekyume&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=true&order=2&custom_title=Principais%20Linguagens" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thebestgekyume&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=aura&hide_border=true&order=2&custom_title=Principais%20Linguagens" height="200" alt="languages graph"  />
 </div>
 
 ###
